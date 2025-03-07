@@ -1,8 +1,16 @@
 body{
     background-color: #6C7091;
-    color: #8BE653;
+    color: #FFFFFF;
 }
 
 body strong{
-    color: #E87448;
+    color: #5393E6;
+}
+
+#java{
+    color: #E87548;
+}
+
+#spring-boot{
+    color: #8BE653;
 }
