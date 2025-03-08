@@ -6,6 +6,8 @@
 body{
     background-color: #6C7091;
     color: #FFFFFF;
+    height: 100vh;
+    box-sizing: border-box;
 }
 
 .destaque-titulo{
@@ -18,4 +20,8 @@ body{
 
 .destaque-spring-boot{
     color: #8BE653;
+}
+
+.apresentacao{
+    display: flex;
 }
