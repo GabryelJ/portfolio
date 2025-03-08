@@ -1,16 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body{
     background-color: #6C7091;
     color: #FFFFFF;
 }
 
-body strong{
+.destaque-titulo{
     color: #5393E6;
 }
 
-#java{
+.destaque-java{
     color: #E87548;
 }
 
-#spring-boot{
+.destaque-spring-boot{
     color: #8BE653;
 }
