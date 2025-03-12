@@ -8,7 +8,7 @@
 body{
     background-color: #6C7091;
     color: #FFFFFF;
-    height: 100vh;
+    /*height: 100vh;*/
     width: 100%;
     box-sizing: border-box;
 }
@@ -84,4 +84,14 @@ body{
 .apresentacao__links__link:hover{
     background-color: #5393E6;
     padding: 5%;
+}
+
+.rodape {
+    display: flex;
+    justify-content: center;
+    background-color: #5393E6;
+    padding: 24px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
 }
