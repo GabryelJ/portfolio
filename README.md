@@ -9,3 +9,7 @@
 ## Tecnologias utilizadas 
   ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS Badge](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+
+# Como utilizar
+
+Basta acessar o link: https://portfolio-coral-nine-10.vercel.app.
